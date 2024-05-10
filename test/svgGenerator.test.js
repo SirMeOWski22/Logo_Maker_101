@@ -15,7 +15,7 @@ describe('SVG Generator', () => {
     const svgContent = fs.readFileSync('logo.svg', 'utf-8');
     expect(svgContent).toContain('<svg');
     expect(svgContent).toContain('<text');
-    expect(svgContent).toContain('<rect');
+    expect(svgContent).toContain('<circle');
     expect(svgContent).toContain('ABC');
     expect(svgContent).toContain('#ff0000');
     expect(svgContent).toContain('#0000ff');
