@@ -22,12 +22,13 @@ Once you have entered input for all prompts, an SVG file named logo.svg will be 
 The output text "Generated logo.svg" is printed in the command line.
 
 Open the logo.svg file in a web browser to view the generated SVG logo. It will be a 300x200 pixel image that matches the criteria you entered.
-Example
-Here's a brief example of how you might use the SVG Logo Maker:
+
+### Here's a brief example of how you might use the SVG Logo Maker:
 
 ![svg example](https://github.com/SirMeOWski22/Logo_Maker_101/assets/160355750/7a0d294f-e17b-4975-87af-91e7004ac09b)
 
-Video of SVG Logo Maker in Action: ![92496a7a660346cf8cad5fd2f69ae088-with-play](https://github.com/SirMeOWski22/Logo_Maker_101/assets/160355750/626ab9f9-0442-4d0d-b9bd-d49ca856bdc1)
+### Video of SVG Logo Maker in Action: 
+![92496a7a660346cf8cad5fd2f69ae088-with-play](https://github.com/SirMeOWski22/Logo_Maker_101/assets/160355750/626ab9f9-0442-4d0d-b9bd-d49ca856bdc1)
 
 ## Note
 The application supports both color keywords (e.g., "red", "blue") and hexadecimal color codes (e.g., "#ff0000", "#0000ff").
