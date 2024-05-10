@@ -1,14 +1,14 @@
-#SVG Logo Maker
+# SVG Logo Maker
 This command-line application allows users to create SVG logos by providing input for text, text color, shape, and shape color.
 
-##Installation
+## Installation
 To use the SVG Logo Maker, you need to have Node.js installed on your system. Then, follow these steps:
 
 Clone this repository to your local machine.
 Navigate to the project directory in your terminal.
 Run npm install to install the required dependencies.
 
-##Usage
+## Usage
 To generate an SVG logo, follow these steps:
 
 1. Open your terminal and navigate to the project directory.
@@ -29,11 +29,11 @@ Here's a brief example of how you might use the SVG Logo Maker:
 
 Video of SVG Logo Maker in Action: ![92496a7a660346cf8cad5fd2f69ae088-with-play](https://github.com/SirMeOWski22/Logo_Maker_101/assets/160355750/626ab9f9-0442-4d0d-b9bd-d49ca856bdc1)
 
-##Note
+## Note
 The application supports both color keywords (e.g., "red", "blue") and hexadecimal color codes (e.g., "#ff0000", "#0000ff").
 Ensure that the provided text does not exceed three characters for optimal display.
 Make sure to open the generated logo.svg file in a browser that supports SVG rendering to view the logo properly.
 Happy logo making!
 
-##Credit
+## Credit
 A lot of resources like MDN Web Docs, W3.org, and Google helped with unfamiliar code and failed tests.
